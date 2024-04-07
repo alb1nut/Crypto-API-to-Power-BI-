@@ -14,7 +14,7 @@ This repository contains code and documentation for a cryptocurrency data analys
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/alb1nut/Crypto-API-to-Power-BI-.git
    ```
 
 2. **Install Dependencies:**
@@ -24,7 +24,7 @@ This repository contains code and documentation for a cryptocurrency data analys
 
 3. **Run the Python Script:**
    ```bash
-   python cryptocurrency_analysis.py
+   python Crypto API to Power BI Project.ipynb
    ```
 
 4. **Open Power BI:**
